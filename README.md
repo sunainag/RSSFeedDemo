@@ -4,4 +4,5 @@ RSS is a type of web feed which easily allows a user to keep track of updates fr
 
 Please refer:
 https://www.baeldung.com/spring-boot-favicon
+
 https://www.baeldung.com/spring-mvc-rss-feed
